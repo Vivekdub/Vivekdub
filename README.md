@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sd-space">
+  <a href="https://github.com/Vivekdub">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
   </a>
-  <a href="mailto:shashankd090@gmail.com">
+  <a href="mailto:vivekdubey20004@gmail.com">
     <img src="https://img.shields.io/badge/email-contact%20me-blue?style=flat&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
